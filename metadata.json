@@ -1,0 +1,5 @@
+{
+  "name": "Aenzbidev: Cloud Platform for Frontend Developers",
+  "description": "An informational website for Aenzbidev, a cloud platform designed to streamline the entire development workflow by integrating directly with a developer's Git repository for automated builds, deployments, and hosting of modern web applications.",
+  "requestFramePermissions": []
+}
